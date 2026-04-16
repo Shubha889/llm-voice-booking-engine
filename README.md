@@ -257,3 +257,6 @@ MIT License — see [LICENSE](LICENSE)
 ## Author
 
 **Shubha K** · [LinkedIn](https://linkedin.com/in/shubha1111) · [Shubha889@gmail.com](mailto:Shubha889@gmail.com)
+
+Built and maintained as part of production AI development at HeiBuddy AI, Bangalore.
+
